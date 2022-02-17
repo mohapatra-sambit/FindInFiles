@@ -6,7 +6,7 @@ A handy utility to search for a text in all the files present inside a folder an
 
 1. Save the frequently-used search criterion.
 
-2. Double-click to opne the file using the system's dfault editor.
+2. Double-click to open the file using the system's default editor.
 
 3. Platform independent
 
@@ -14,14 +14,12 @@ A handy utility to search for a text in all the files present inside a folder an
 
 1. JDK 1.6 or higher
 
-2. TinyLaF jar (link).
+2. TinyLaF jar ([muntjak.de - TinyLaF](http://www.muntjak.de/hans/java/tinylaf/index.html)).
 
-3. Log4j, ver. 1.2.16 or higher.
+3. Log4j, *ver*. 1.2.16 or higher.
 
-## TODO
+## TO-DO
 
-- [ ]  Build script for an executable
+- [ ] Build script for an executable
 
-- [ ]  Dark Theme
-  
-  
+- [ ] Dark Theme
