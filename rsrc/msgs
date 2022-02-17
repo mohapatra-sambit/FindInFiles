@@ -1,0 +1,12 @@
+E1=File [{1}] not found in the specified location.
+E2=[{1}] is a folder. Expected to be a file.
+E3=[{1}] is a file. Expected to be a folder.
+E4=Read permission is not set for [{1}].
+E5=Write permission is not set for [{1}].
+E6=I/O error has occurred. Please try again later.
+E7=Please specify [{1}] correctly.
+E8=No files to search in the specified location [{1}].
+E9=Search with name [{1}] already exists.
+E10=Search with this criteria already exists with the name [{1}].
+E11=Search with the name [{1}] is nor found.
+E12=Some configuration files are not loaded properly. You may not be able to see appropriate messages in case of any error.  However, logs can be referred for error details.
